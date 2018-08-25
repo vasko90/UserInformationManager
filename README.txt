@@ -1,0 +1,1 @@
+Java web aplikacija za unos i brisanje korisnika, kao i izmenu podataka o korisnicima. Aplikacija je radjena u Ant-u pomocu Spring MVC-a i Hibernate-a, u NetBeans IDE.
